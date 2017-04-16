@@ -27,6 +27,20 @@
 *.out
 *.app
 
+# Log
+*.log
+*.tlog
+
+# Project
+*.db
+*.opendb
+*.pdb
+*.iobj
+*.ipdb
+*.idb
+*.exp
+*.ilk
+
 # =========================
 # Operating System Files
 # =========================
